@@ -1,0 +1,9 @@
+co-op/runtime/
+co-op/logs/
+game/
+*.pck
+*.exe
+*.dll
+*.zip
+*.sha256
+__pycache__/
